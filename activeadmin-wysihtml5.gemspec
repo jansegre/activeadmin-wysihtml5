@@ -17,5 +17,4 @@ Gem::Specification.new do |s|
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "activeadmin"
-  s.add_dependency "activeadmin-dragonfly"
 end
