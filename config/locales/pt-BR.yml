@@ -1,0 +1,53 @@
+pt-BR:
+  formtastic:
+    wysihtml5:
+      command:
+        bold: "Negrito"
+        italic: "Itálico"
+        link: "Link"
+        image: "Imagem"
+        ul: "Lista não ordenada"
+        ol: "Lista ordenada"
+        source: "Mostrar HTML"
+        underline: "Sublinhar"
+        outdent: "Desindentar"
+        indent: "Indentar"
+      block_style: "Estilo do bloco"
+      blocks:
+        h1: "Título 1"
+        h2: "Título 2"
+        h3: "Título 3"
+        h4: "Título 4"
+        h5: "Título 5"
+        h6: "Título 6"
+        p: "Parágrafo"
+
+      dialog:
+        cancel: "Cancelar"
+        ok: "OK"
+        image:
+          dialog_title: "Inserir nova imagem"
+          url_title: "Imagem externa"
+          gallery_title: "Galeria"
+          upload_title: "Upload"
+          url: "URL:"
+          alignment: "Alinhamento:"
+          default: "Nenhum"
+          left: "Esquerda"
+          right: "Direita"
+          scale: "Escala:"
+          alt: "Texto alternativo:"
+          title: "Campo <code>title</code>:"
+        link:
+          dialog_title: "Inserir novo link"
+          url_title: "URL"
+          email_title: "Email"
+          anchor_title: "Âncora"
+          url: "URL:"
+          text: "Texto:"
+          rel: "Campo <code>rel</code>:"
+          title: "Campo <code>title</code>:"
+          email: "Email:"
+          anchor: "Nome da âncora:"
+          blank: "O link deve abrir uma nova página/aba"
+          your_text_here: "Seu texto aqui"
