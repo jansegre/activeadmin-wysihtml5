@@ -191,8 +191,8 @@ module Formtastic
           <div class="modal-content">
             <ul class="tabs">
               <li><a data-tab-handle="1" href="#modal-image-url">#{I18n.t("wysihtml5.dialog.image.url_title")}</a></li>
-              <li><a data-tab-handle="1" href="#modal-image-gallery">#{I18n.t("wysihtml5.dialog.image.gallery_title")}</a></li>
-              <li><a data-tab-handle="1" href="#modal-image-upload">#{I18n.t("wysihtml5.dialog.image.upload_title")}</a></li>
+              <!--<li><a data-tab-handle="1" href="#modal-image-gallery">#{I18n.t("wysihtml5.dialog.image.gallery_title")}</a></li>
+              <li><a data-tab-handle="1" href="#modal-image-upload">#{I18n.t("wysihtml5.dialog.image.upload_title")}</a></li>-->
             </ul>
             <div data-tab="1" id="modal-image-url">
               <div class="input string">
